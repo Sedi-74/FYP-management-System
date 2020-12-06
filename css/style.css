@@ -1,0 +1,89 @@
+*{
+
+	padding: 0px;
+	margin: 0px;
+}
+
+html{
+
+	background: #dddddd;
+}
+
+.back{
+
+background:white;
+height: 800px;
+width: 800px;
+margin: 0 auto;
+margin-top: 5px;
+margin-bottom: 5px;
+font-family: Century;
+
+}
+
+.log{
+
+	height: auto;
+	width: 50%;
+	margin: 0 auto;
+	margin-top: 20px;
+	padding: 30px;
+	margin-bottom: 40px;
+
+-webkit-box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+
+}
+
+.heading{
+
+	text-align: center;
+	margin-top: 40px;
+}
+
+
+.input{
+
+
+	height: 30px;
+	width: 90%;
+	padding: 2px;
+	margin-top: 10px;
+}
+
+.btn{
+
+	border-radius: 5px;
+	padding: 10px;
+	background: #663b95;
+	color: white;
+	margin-top: 40px;
+}
+
+h1,h2,h3,h4,h5,h6,label{
+
+	font-family: roboto;
+	color: #0e0c6f;
+	font-weight: bold;
+}
+
+
+.footer{
+
+
+	background: #750036;
+	height: 60px;
+	width: 100%;
+	float: left;
+}
+
+footer{
+
+
+	text-align: center;
+	color: white;
+	line-height: 50px;
+}
